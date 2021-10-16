@@ -1,0 +1,33 @@
+.jumbotron{
+    background-attachment: fixed;
+    margin-bottom: 0px;
+    height: 100vh;
+    background-size: cover;
+}
+
+h1{
+    margin-top: 200px;
+    color: white;
+    opacity: calc(60%);
+}
+.jumbo1{
+    background-image: url(https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+.jumbo2{
+    background-image: url(https://images.pexels.com/photos/2775196/pexels-photo-2775196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+.jumbo3{
+    background-image: url(https://images.pexels.com/photos/572897/pexels-photo-572897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+.jumbo4{
+    background-image: url(https://images.pexels.com/photos/3244513/pexels-photo-3244513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+.jumbo5{
+    background-image: url(https://images.pexels.com/photos/5245865/pexels-photo-5245865.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+}
+h1{
+    font-family: 'Abel', sans-serif;
+}
+p{
+    font-family: 'Bebas Neue', cursive;
+}
