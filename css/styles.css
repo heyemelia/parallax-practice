@@ -37,8 +37,6 @@ h1{
 p{
     font-family: 'Bebas Neue', cursive;
 }
-
-.footer{
-    background-color: coral;
-    
+.page-footer{
+    background-color: plum;
 }
